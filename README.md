@@ -20,7 +20,7 @@ I install emacs.
 
 Applicable to more than emacs, but applicable to emacs.
 
-License (see the file LICENSE, but basically, the files below, which I am a bit unsure how to cite.)
+License (see the file LICENSE, but basically, the files below, which I am a bit unsure how to cite.)  
 http://creativecommons.org/licenses/by-sa/3.0/  
 http://creativecommons.org/licenses/by-sa/3.0/legalcode  
 Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)  
