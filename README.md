@@ -18,7 +18,7 @@ wrappers to it, and am distributing it on github, in part to "give
 back" and in large part so I know where to find the code the next time
 I install emacs.
 
-Applicable to more than emacs, but it applicable to emacs.
+Applicable to more than emacs, but applicable to emacs.
 
 License: 
 http://creativecommons.org/licenses/by-sa/3.0/
